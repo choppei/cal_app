@@ -1,6 +1,6 @@
 # calculator app
 
-A new Flutter project.
+Dart dili ile Calculator uygulaması
 
 ## Getting Started
 
